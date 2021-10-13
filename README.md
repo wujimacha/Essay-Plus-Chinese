@@ -2,6 +2,19 @@
 
 # [WūJīMāChā Essay+ 中文](https://www.wujimacha.com/essay-plus-tc)
 
+Comments, feedback and suggestions please head to the [Discussions](https://github.com/wujimacha/Essay-Plus-English/discussions) page.
+<br>評論，反饋和建議請至 [Discussions](https://github.com/wujimacha/Essay-Plus-Chinese/discussions) 頁面。
+
+To see what the editor team is up to, please head to the [Projects](https://github.com/wujimacha/Essay-Plus-English/projects) page.
+<br>查看编辑组正在做什麼請至 [Projects](https://github.com/wujimacha/Essay-Plus-Chinese/projects) 頁面。
+
+Happy offline reading : )
+<br>離線閱讀愉快：）
+
+---
+
+### 關於
+
 數字時代日益加劇，人的生存空間也因而在無形中被縮減，代之以效率化，功能化的數據交換。思想與文藝作為社會生活最重要之形式，逐漸失去了現實的基本。為了在這不期然的境況下讓純粹的精神活動仍能得以表達，我們決定創立 *WūJīMāChā Essay+*。題材、媒介、傾向，俱不設限，但以純文學及其批評，純思想性作品及其批評為主。
 
 每期內容您不但可以在線進行橫書全文閱讀，亦可離線閱讀縱書版本（PDF）。全部內容均遵循[共享創意署名 4.0 國際版權協議（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)。
