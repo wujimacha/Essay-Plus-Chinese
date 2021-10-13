@@ -1,6 +1,6 @@
 即將發佈，敬請期待。
 
-# [WūJīMāChā Essay+](https://www.wujimacha.com/essay-plus-tc)
+# [WūJīMāChā Essay+ 中文](https://www.wujimacha.com/essay-plus-tc)
 
 數字時代日益加劇，人的生存空間也因而在無形中被縮減，代之以效率化，功能化的數據交換。思想與文藝作為社會生活最重要之形式，逐漸失去了現實的基本。為了在這不期然的境況下讓純粹的精神活動仍能得以表達，我們決定創立 *WūJīMāChā Essay+*。題材、媒介、傾向，俱不設限，但以純文學及其批評，純思想性作品及其批評為主。
 
