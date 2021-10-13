@@ -2,14 +2,11 @@
 
 # [WūJīMāChā Essay+ 中文](https://www.wujimacha.com/essay-plus-tc)
 
-Comments, feedback and suggestions please head to the [Discussions](https://github.com/wujimacha/Essay-Plus-English/discussions) page.
-<br>評論，反饋和建議請至 [Discussions](https://github.com/wujimacha/Essay-Plus-Chinese/discussions) 頁面。
+評論，反饋和建議請至 [Discussions](https://github.com/wujimacha/Essay-Plus-Chinese/discussions) 頁面。
 
-To see what the editor team is up to, please head to the [Projects](https://github.com/wujimacha/Essay-Plus-English/projects) page.
-<br>查看编辑组正在做什麼請至 [Projects](https://github.com/wujimacha/Essay-Plus-Chinese/projects) 頁面。
+查看编辑组正在做什麼請至 [Projects](https://github.com/wujimacha/Essay-Plus-Chinese/projects) 頁面。
 
-Happy offline reading : )
-<br>離線閱讀愉快：）
+離線閱讀愉快：）
 
 ---
 
