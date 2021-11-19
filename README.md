@@ -2,7 +2,7 @@
 
 評論，反饋和建議請至 [Discussions](https://github.com/wujimacha/Essay-Plus-Chinese/discussions) 頁面。
 
-查看编辑组正在做什麼請至 [Projects](https://github.com/wujimacha/Essay-Plus-Chinese/projects) 頁面。
+查看编辑组正在做什麼請至 [Issues](https://github.com/wujimacha/Essay-Plus-Chinese/issues) 頁面。
 
 離線閱讀愉快：）
 
